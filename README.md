@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anuththara Dias</h1>
-<h3 align="center">A passionate Full-stack developer,UI/UX Desiner from Sri Lanka</h3>
+<h3 align="center">An undergraduate,a passionate Frontend developer,Full-stack developer, UI/UX Designer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anudz27&label=Profile%20views&color=0e75b6&style=flat" alt="anudz27" /> </p>
 
