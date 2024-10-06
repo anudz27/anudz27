@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [E-Commerce Web Platform](https://github.com/anudz27/clothing_platform.git)
 
-- 🌱 I’m currently learning **React Js,Node Js.**
+- 🌱 I’m currently learning **ReactJs,NodeJs.**
 
 - 💬 Ask me about **Java**
 
