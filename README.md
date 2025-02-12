@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anuththara Dias</h1>
-<h3 align="center">An undergraduate,a passionate Frontend developer, UI/UX Designer.</h3>
+<h3 align="center">Undergraduate | Tech Enthusiast | Problem Solver | .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anudz27&label=Profile%20views&color=0e75b6&style=flat" alt="anudz27" /> </p>
 
-- 🔭 I’m currently working on [Real State Web Platform](https://github.com/anudz27/clothing_platform.git)
+- 🔭 I’m currently working on [Real State Web Platform](https://github.com/anudz27/Real_Estate_Marketplace)
 
 - 🌱 I’m currently learning **ReactJs,NodeJs.**
 
