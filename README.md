@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anudz27&label=Profile%20views&color=0e75b6&style=flat" alt="anudz27" /> </p>
 
-- 🔭 I’m currently working on [Real State Web Platform](https://github.com/anudz27/Real_Estate_Marketplace)
+- 🔭 I’m currently working on [Real Estate Web Platform](https://github.com/anudz27/Real_Estate_Marketplace)
 
 - 🌱 I’m currently learning **ReactJs,NodeJs.**
 
