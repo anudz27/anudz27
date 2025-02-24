@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Real Estate Web Platform](https://github.com/anudz27/Real_Estate_Marketplace)
 
-- 🌱 I’m currently learning **ReactJs,NodeJs.**
-
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **anuththaradias27@gmail.com**
